@@ -5,12 +5,12 @@
 
 ## ✨ 專案特色
 
-- 📡 串接中央氣象局 API（模擬資料）
-- 🤖 使用 Gemini 生成模型 (Google Generative AI)
-- 🌤️ 自動判斷未來幾天是否適合露營
+- 📡 串接中央氣象局 API 拿到一週天氣資料
+- 🤖 使用 Gemini 串接當LLM 主體 (Google Generative AI)
+- 🌤️ 判讀未來幾天是否適合露營
+- Flask 搭建 UI
 - 🐳 Docker 容器化
 - ☁️ 部署到 Google Cloud Run
-- 🔥 支援超低延遲、可隨需擴展
 - 💬 簡單對話式輸入，隨時問天氣！
 
 ---
